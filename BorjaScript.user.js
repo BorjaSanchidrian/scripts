@@ -30,11 +30,6 @@
 	function Script() {
 	   
 	    if ($('[name="q' + surv_num + '"]').length > 0) {
-		    
-		    //usar con precaucion
-		    $("#TimerButton").prop('value', 'Responder');
-		    $("#TimerButton").prop('disabled', false);
-
 
 	        if ($('[name="q' + surv_num + '"]').is(':checked')) {
 	            //hay una opcion selecionado
