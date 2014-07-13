@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // ==UserScript==
 // @name        BorjaScript
 // @namespace   http://spain-estudios.com/
@@ -49,6 +48,3 @@ function Script() {
         }
     }
 }
-=======
-BUG DETECTED - LOL
->>>>>>> origin/master
